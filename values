@@ -1,0 +1,6 @@
+NAME=cco-l1
+START_UP_SCRIPT_REL_PATH=startup.sh
+MACHINE_TYPE=n1-standard-4
+GCP_ZONE=europe-west1-b
+GCP_REGION=europe-west1
+GCP_PROJECT=calico-certified-operator
