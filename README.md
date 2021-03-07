@@ -11,6 +11,7 @@ and zone `europe-west1-b`. These values can be updated in `values` file.
 The following are the requirements for the successful execution of the script
 
 1. Create a Google Cloud account
+2. Install Google Cloud SDK [following this instructions](https://cloud.google.com/sdk/docs/install)
 2. Execute from Unix based OS (MacOS or Linux)
 
 ### Quick start
